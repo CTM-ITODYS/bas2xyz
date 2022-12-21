@@ -1,5 +1,5 @@
 # bas2xyz
-Fortran code that convert xyz file to bas file for Fireball <br />
+Fortran code that convert bas file to xyz file for Fireball <br />
 
 Compile the code:
 ```markdown
