@@ -1,6 +1,6 @@
 # bas2xyz
 Fortran code that convert bas file to xyz file for Fireball <br />
-
+Github page: https://ctm-itodys.github.io/bas2xyz/
 Compile the code:
 ```markdown
 gfortran bas2xyz.f95 -o bas2xyz.exe
